@@ -8,7 +8,7 @@
   <a href="https://tridibbanik17.github.io/Web-Development/HTML/PersonalPortfolio.html">Portfolio</a> •
   <a href="https://github.com/tridibbanik17/Web-Development/blob/main/Assets/Resume_of_Tridib_Banik.pdf">Resume</a> •
   <a href="https://linkedin.com/in/tridib-banik17">LinkedIn</a> •
-  <a href="mailto:tridib.perfect@gmail.com">Email</a> •
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tridib.perfect@gmail.com">Email</a> •
   <a href="https://www.youtube.com/@baniktracks5786">YouTube</a>
 </p>
 
@@ -49,13 +49,12 @@ I enjoy building software that reduces real-world friction, is easy for future c
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab%20CI/CD-111111?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-111111?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulink-111111?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
@@ -66,8 +65,6 @@ I enjoy building software that reduces real-world friction, is easy for future c
   <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ---
@@ -75,11 +72,11 @@ I enjoy building software that reduces real-world friction, is easy for future c
 ## Engineering Experience
 
 ### Battery Workforce Challenge — BMS Software Team (20+ months)
-- Designed, simulated, and tested safety-critical BMS features including contactor control, plug-in charging, cell balancing, and fault diagnosis
+- Designed and tested safety-critical BMS features including contactor control, plug-in charging, cell balancing, and fault diagnosis
 - Scaled the State-of-Charge (SoC) subsystem from a 14-cell emulator to a full 105-cell series configuration to match real pack behaviour
-- Built a full simulated 105s34p battery pack model using Simscape library, integrating 140 temperature sensors across 35 modules to mirror the physical prototype
+- Built a simulated 105s34p battery pack model using Simscape, integrating 140 temperature sensors across 35 modules to mirror the physical prototype
 - Built a 5-stage GitLab CI pipeline (verify, build, test, package, deploy) enabling automated Simulink model verification
-- Conducted memory consumption analysis across subsystems, validating BMS usage at 0.99% flash and 9.23% RAM
+- Analyzed memory usage across subsystems, validating BMS usage at 0.99% flash and 9.23% RAM
 - Presented Model-in-the-Loop validation results to Argonne National Laboratory and Stellantis engineers
 
 ---
@@ -100,15 +97,6 @@ I enjoy building software that reduces real-world friction, is easy for future c
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tridibbanik17&theme=github-dark&hide_border=true" width="100%"/>
-
----
-
-## Featured Links
-
-- Portfolio: https://tridibbanik17.github.io/Web-Development/HTML/PersonalPortfolio.html  
-- Resume: https://github.com/tridibbanik17/Web-Development/blob/main/Assets/Resume_of_Tridib_Banik.pdf  
-- LinkedIn: https://linkedin.com/in/tridib-banik17  
-- Email: tridib.perfect@gmail.com  
 
 ---
 
