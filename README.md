@@ -25,6 +25,7 @@ I enjoy building software that reduces real-world friction, is easy for future c
 ## Highlights
 
 - Dean’s Honour List (3 consecutive academic years)
+- Represented McMaster University at Battery Workforce Challenge: Overall 1st place (Year 2) and 2nd place (Year 3) out of 12 North American Universities
 - 20+ months building Battery Management System (BMS) software (Battery Workforce Challenge)
 - Strong experience with Python, SQL, Docker, Linux, and engineering workflows
 - Teaching Assistant for McMaster Engineering 1P13 (mentored 40+ students over 12 weeks)
@@ -73,20 +74,22 @@ I enjoy building software that reduces real-world friction, is easy for future c
 
 ## Engineering Experience
 
-### Battery Workforce Challenge — Software Subteam (McMaster Automotive Resource Centre)
-- Designed and simulated Battery Management System (BMS) software using MATLAB and Simulink
-- Built subsystem models and verification workflows using unit + system testing
-- Supported validation of battery behavior, safety logic, and diagnostics through simulation
-- Contributed to an EV engineering project targeting real-world deployment constraints
+### Battery Workforce Challenge — BMS Software Team (20+ months)
+- Designed, simulated, and tested safety-critical BMS features including contactor control, plug-in charging, cell balancing, and fault diagnosis
+- Scaled the State-of-Charge (SoC) subsystem from a 14-cell emulator to a full 105-cell series configuration to match real pack behaviour
+- Built a full simulated 105s34p battery pack model using Simscape library, integrating 140 temperature sensors across 35 modules to mirror the physical prototype
+- Built a 5-stage GitLab CI pipeline (verify, build, test, package, deploy) enabling automated Simulink model verification
+- Conducted memory consumption analysis across subsystems, validating BMS usage at 0.99% flash and 9.23% RAM
+- Presented Model-in-the-Loop validation results to Argonne National Laboratory and Stellantis engineers
 
 ---
 
 ## Teaching and Mentorship
 
 ### Teaching Assistant — McMaster Engineering 1P13
-- Mentored 40+ students over 12 weeks
-- Guided teams through the full engineering design lifecycle (planning → implementation → testing)
-- Supported students in building a wastewater filtration engineering solution
+- Mentored 40+ students through a semester-long engineering design project
+- Verified technical calculations and design decisions for wastewater filtration systems
+- Provided milestone-level feedback improving engineering justification quality and project outcomes
 
 ---
 
