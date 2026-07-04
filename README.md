@@ -16,7 +16,7 @@
 
 ## About
 
-I recently completed Level 3 of my Software Engineering undergraduate degree at McMaster University, focused on full-stack development, ML/data workflows, and building maintainable systems designed for scale.
+I am a Level 4 Software Engineering undergraduate student at McMaster University, focused on full-stack development, ML/data workflows, and building maintainable systems designed for scale.
 
 I enjoy building software that reduces real-world friction, is easy for future contributors to understand, and solves problems with long-term impact.
 
@@ -44,11 +44,13 @@ I enjoy building software that reduces real-world friction, is easy for future c
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 <p align="left">
@@ -62,7 +64,7 @@ I enjoy building software that reduces real-world friction, is easy for future c
 ## Currently Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
