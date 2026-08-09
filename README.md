@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tridibbanik17.github.io/Web-Development/HTML/PersonalPortfolio.html">Portfolio</a> •
+  <a href="https://tridib.vercel.app">Portfolio</a> •
   <a href="https://github.com/tridibbanik17/Web-Development/blob/main/Assets/Resume_of_Tridib_Banik.pdf">Resume</a> •
   <a href="https://linkedin.com/in/tridib-banik17">LinkedIn</a> •
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tridib.perfect@gmail.com">Email</a> •
