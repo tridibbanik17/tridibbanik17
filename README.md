@@ -29,7 +29,6 @@ I enjoy building software that reduces real-world friction, is easy for future c
 - 20+ months building Battery Management System (BMS) software (Battery Workforce Challenge)
 - Strong experience with Python, SQL, Docker, Linux, and engineering workflows
 - Teaching Assistant for McMaster Engineering 1P13 (mentored 40+ students over 12 weeks)
-- Regularly solving NeetCode 150 using Python
 
 ---
 
